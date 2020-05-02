@@ -1,5 +1,5 @@
 # UAV-Detection
-UAV Detection using yolo algorithm - python
+UAV Detection using Machine Learning - python
 UNMANNED ARIEL VEHICLE DETECTION USING MACHINE LEARRNING PYTHON
 
 What is YOLO? ==>
