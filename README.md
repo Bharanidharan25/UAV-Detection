@@ -17,5 +17,3 @@ Lets see how YOLO detects the objects in a given image. ==>
   For each bounding box, the network also predicts the confidence that the bounding box actually encloses an object, and the probability of the enclosed object being a particular class.
   Most of these bounding boxes are eliminated because their confidence is low or because they are enclosing the same object as another bounding box with very high confidence score. This technique is called non-maximum suppression.
   
-  
-Working model video ==> https://doc-0c-1c-docs.googleusercontent.com/docs/securesc/941m89b36bg9896n6lukqk3sgao61kn8/4kh80hlvtbbv0a8iq2e394lk8cekj7e9/1588398600000/06867754402472240015/06867754402472240015/11HRRKG4qwpegU8t4LYnA7jUnNK_io2oV?h=01693697555302872943&e=download&authuser=1
